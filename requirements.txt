@@ -1,0 +1,11 @@
+# Python -> 3.9
+
+tensorflow-gpu==2.9
+numpy==1.26.4
+pandas
+mne
+tqdm
+ssqueezepy
+livelossplot
+scikit-learn
+seaborn
